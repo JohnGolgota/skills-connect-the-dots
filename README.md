@@ -18,7 +18,7 @@ _Useful tips when navigating through your repository._
   Do not use quotes on the <details> tag attributes.
 -->
 
-<details id=0 open>
+<details id=0>
 <summary><h2>Welcome</h2></summary>
 
 Have you ever worked in a repository with a lot of history? Perhaps you've had to track down related issues and pull requests in the past, or you've had to find who committed a particular change. If you've ever found yourself in any of these situations, you'll know how important it is to navigate your workspace.
@@ -64,7 +64,7 @@ Have you ever worked in a repository with a lot of history? Perhaps you've had t
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1>
+<details id=1 open>
 <summary><h2>Step 1: Resolve duplicate issues</h2></summary>
 
 _Welcome to the course :tada:_
