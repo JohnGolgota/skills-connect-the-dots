@@ -132,7 +132,7 @@ A SHA is a reference to a specific object. In this case, it's a reference to a c
   Define terms and link to docs.github.com.
 -->
 
-<details id=3 open>
+<details id=3>
 <summary><h2>Step 3: Fix a broken sidebar</h2></summary>
 
 _Great job finding that commit :heart:_
@@ -174,7 +174,7 @@ When you're looking at a commit on GitHub, you can see a lot of information. Fro
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 ### Congratulations friend, you've completed this course!
