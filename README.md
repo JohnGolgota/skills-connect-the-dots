@@ -64,7 +64,7 @@ Have you ever worked in a repository with a lot of history? Perhaps you've had t
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Resolve duplicate issues</h2></summary>
 
 _Welcome to the course :tada:_
@@ -95,7 +95,7 @@ When you want to create a crosslink, start typing the title of an issue or pull 
   Define terms and link to docs.github.com.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: Find a commit in history</h2></summary>
 
 _Thanks for the duplicate note :wave:_
